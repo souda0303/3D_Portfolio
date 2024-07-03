@@ -1,5 +1,3 @@
-
-```markdown
 # 3D Portfolio
 
 Welcome to my 3D Portfolio! This project showcases my skills in web development using React, Three.js, Tailwind CSS, React Router DOM, and React Spring. The portfolio features a 3D island scene with a flying plane and bird, and a sky background that rotates according to the screen rotation.
